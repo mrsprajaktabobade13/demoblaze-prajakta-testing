@@ -12,8 +12,16 @@ The following features were tested:
 - Checkout process
 - Logout
 
-##Testing Types
+## Testing Types
 - Manual Functional testing
 - Black Box testing
+
+## Test Environment
+- Application URL: https://www.demoblaze.com/
+- Browser : Google Chrome
+- OS:Windows
+
+## Thank you for visit and give me this opportunity.
+Gmail- mrsprajaktabobade13@gmail.com
 - End to End Scenario testing
 
