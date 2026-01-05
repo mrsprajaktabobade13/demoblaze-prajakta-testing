@@ -1,4 +1,4 @@
-# demoblaze-prajakta-testing
+# Demoblaze E-commerce functional Testing
 ## Objective: Design and implement functional tests for the following scenarios of the E-commerce Application (https://www.demoblaze.com/).
 
 
@@ -15,6 +15,7 @@ The following features were tested:
 ## Testing Types
 - Manual Functional testing
 - Black Box testing
+- End to End Scenario testing
 
 ## Test Environment
 - Application URL: https://www.demoblaze.com/
@@ -23,5 +24,5 @@ The following features were tested:
 
 ## Thank you for visit and give me this opportunity.
 Gmail- mrsprajaktabobade13@gmail.com
-- End to End Scenario testing
+
 
